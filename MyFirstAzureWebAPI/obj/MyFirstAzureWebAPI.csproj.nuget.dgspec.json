@@ -1,0 +1,72 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\OneDrive\\OneDrive - Office 365 Fontys\\Documenten\\School\\Maatwerk S6\\Main course\\Kennisdeling\\MyFirstAzureWebAPI\\MyFirstAzureWebAPI.csproj": {}
+  },
+  "projects": {
+    "D:\\OneDrive\\OneDrive - Office 365 Fontys\\Documenten\\School\\Maatwerk S6\\Main course\\Kennisdeling\\MyFirstAzureWebAPI\\MyFirstAzureWebAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\OneDrive\\OneDrive - Office 365 Fontys\\Documenten\\School\\Maatwerk S6\\Main course\\Kennisdeling\\MyFirstAzureWebAPI\\MyFirstAzureWebAPI.csproj",
+        "projectName": "MyFirstAzureWebAPI",
+        "projectPath": "D:\\OneDrive\\OneDrive - Office 365 Fontys\\Documenten\\School\\Maatwerk S6\\Main course\\Kennisdeling\\MyFirstAzureWebAPI\\MyFirstAzureWebAPI.csproj",
+        "packagesPath": "C:\\Users\\BePul\\.nuget\\packages\\",
+        "outputPath": "D:\\OneDrive\\OneDrive - Office 365 Fontys\\Documenten\\School\\Maatwerk S6\\Main course\\Kennisdeling\\MyFirstAzureWebAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\BePul\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.1, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

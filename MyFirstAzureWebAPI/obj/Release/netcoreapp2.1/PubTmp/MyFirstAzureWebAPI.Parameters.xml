@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="aspapi-demo" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^D:\\OneDrive\\OneDrive\ -\ Office\ 365\ Fontys\\Documenten\\School\\Maatwerk\ S6\\Main\ course\\Kennisdeling\\MyFirstAzureWebAPI\\obj\\Release\\netcoreapp2\.1\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>
